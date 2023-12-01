@@ -7,7 +7,9 @@ The goal is to create a bot for the Gomoku game
 ## Game rules
 
 2 players are competing each other on a board (called goban)
+
 Each turn, the players must place a stone anywhere on an empty cell of the board
+
 The goal is to place 5 aligned stone (horizontal, vertical or diagonal) to win the game
 
 ## Algorithm
