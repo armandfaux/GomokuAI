@@ -1,4 +1,4 @@
-# Gomoko AI
+# Gomoku AI
 
 The Gomoku is a 3rd year Epitech AI project
 
