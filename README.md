@@ -14,8 +14,8 @@ The goal is to place 5 aligned stone (horizontal, vertical or diagonal) to win t
 
 ## Algorithm
 
-I implemented a minimax algorithm to compute the best move
-The algorithm anticipates X moves in advance, you can configure the depth
+I implemented a minimax algorithm to compute the best move.
+The algorithm anticipates X moves in advance, you can configure the depth.
 However, a high depth implies higher calculation time
 
 The AI evaluates the board based on a formula of my own design, in order to be able to pick the move that gives the best odds of winning
@@ -26,7 +26,7 @@ The AI evaluates the board based on a formula of my own design, in order to be a
 - $ make
 - ./pbrain-gomoku-ai [--display]
 
-When the --display flag is activated, the game will display the board after every move
+When the --display flag is activated, the game will display the board after every move.
 Be careful, the display mode is not compliant with the protocol (since it adds extra output)
 
 /!\ The binary only works on Linux (for now)
