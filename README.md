@@ -1,1 +1,1 @@
-# GomokuAI
+Gomoku's README
