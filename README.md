@@ -29,7 +29,7 @@ The AI evaluates the board based on a formula of my own design, in order to be a
 When the --display flag is activated, the game will display the board after every move.
 Be careful, the display mode is not compliant with the protocol (since it adds extra output)
 
-/!\ The binary only works on Linux (for now)
+/!\ The binary only works on Linux
 
 ## The protocol
 
